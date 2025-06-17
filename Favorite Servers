@@ -12,7 +12,6 @@ vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@146.235.19.79:28983?security=tls&sn
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?security=tls&sni=0926.qiang2000.link&type=ws&path=/Telegram@WangCai2/?ed%3D2560&host=0926.qiang2000.link&encryption=none#SG8%20%F0%9F%87%B8%F0%9F%87%AC
 vless://d6b65f08-f2ea-4871-aa7f-1ffeb81447d1@92.112.23.189:44073?security=&type=tcp&encryption=none#SG9%20%F0%9F%87%B8%F0%9F%87%AC
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@43.160.193.138:34045?security=&type=tcp&encryption=none#SG10%20%F0%9F%87%B8%F0%9F%87%AC
-vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?security=&type=ws&path=/00026cc2&encryption=none#SG%20OVH%20%F0%9F%87%B8%F0%9F%87%AC
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.164.39:8880?security=&type=ws&path=/Telegram%F0%9F%87%AE%F0%9F%87%B7@ShadowProxy66+/?ed%3D2560&host=ip.langmanshanxi.top&encryption=none#SG%20%F0%9F%87%B8%F0%9F%87%AC%20Proxy%201
 vless://cca45b57-0f24-43c8-8911-f8dab5af1e10@104.21.10.25:8880?security=&type=ws&path=/&host=0522.yeyefeng.dpdns.org&encryption=none#SG%20%F0%9F%87%B8%F0%9F%87%AC%20Proxy%202
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.19:8880?security=&type=ws&path=telegram%F0%9F%87%AE%F0%9F%87%B7@ShadowProxy66+/?ed%3D2560&host=hk.laoyoutiao.link&encryption=none#SG%20%F0%9F%87%B8%F0%9F%87%AC%20Proxy%203
@@ -25,8 +24,6 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?security=tls&sn
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.19:8880?security=&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+@pgkj666+/?ed%3D2560&host=hk.laoyoutiao.link&encryption=none#SG%20%F0%9F%87%B8%F0%9F%87%AC%20Proxy%2010
 vless://cbe9216c-a768-44b5-b21e-1771ca332110@38.225.101.77:43000?security=&type=tcp&encryption=none#HK%20%F0%9F%87%AD%F0%9F%87%B0%209000TB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRDlmTml5T2gzaTc=@62.60.232.20:443#EVA_HKG%20%F0%9F%87%AD%F0%9F%87%B0
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2376#US1%20%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.133:5004#US2%20%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.248.235:7306#US3%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.64.58:34045?security=&type=tcp&encryption=none#Vietnam%20%F0%9F%87%BB%F0%9F%87%B3
