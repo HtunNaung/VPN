@@ -2,7 +2,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.238:2096/?type=ws&encryp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.41:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%40ChinaPortGFW&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&fp=chrome#SG3%20%F0%9F%87%B8%F0%9F%87%AC
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.28.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&sni=sni.111000.indevs.in&allowInsecure=1#SG4%20%F0%9F%87%B8%F0%9F%87%AC
 vless://ee5072ad-3eb8-4da0-a1a4-799bb28c578a@45.89.107.203:80?security=&type=ws&path=/vless/&host=portal-as.ruijienetworks.com&encryption=none#StarLink%20Malaysia%202026-05-29
-vless://aa7df2d7-e04a-4cd4-96ca-196d8f5ec196@45.89.105.56:80?security=&type=ws&path=/vless/&host=portal-as.ruijienetworks.com&encryption=none#StarLink%20India%202026-05-25
+vless://5e9dcb8a-5cb9-4674-afde-5307730306e9@45.89.107.203:80?security=&type=ws&path=/vless/&host=portal-as.ruijienetworks.com&encryption=none#StarLink%20Malaysia%202026-05-30
 vless://b462a50a-0dd3-4bdb-aa48-f801ec442c0d@61.245.11.60:80?security=&type=ws&path=/vless/&host=portal-as.ruijienetworks.com&encryption=none#StarLink%20Philippines%202026-05-26
 
 
