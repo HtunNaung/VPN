@@ -1,8 +1,11 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.238:2096?security=tls&sni=sni.jpmj.dev&allowInsecure=1&type=ws&host=sni.jpmj.dev&encryption=none#SG2%20%F0%9F%87%B8%F0%9F%87%AC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.41:443?security=tls&sni=sni.111000.v6.navy&allowInsecure=1&fp=chrome&type=ws&path=/@ChinaPortGFW&host=sni.111000.v6.navy&encryption=none#SG3%20%F0%9F%87%B8%F0%9F%87%AC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.28.138:2096?security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&path=/?ed%3D2560&host=sni.111000.indevs.in&encryption=none#SG4%20%F0%9F%87%B8%F0%9F%87%AC
-vless://ee5072ad-3eb8-4da0-a1a4-799bb28c578a@45.89.107.203:80?security=&type=ws&path=/vless/&host=portal-as.ruijienetworks.com&encryption=none#StarLink%20Malaysia%202026-05-29
-vless://5e9dcb8a-5cb9-4674-afde-5307730306e9@45.89.107.203:80?security=&type=ws&path=/vless/&host=portal-as.ruijienetworks.com&encryption=none#StarLink%20Malaysia%202026-05-30
-vless://a6a8eb01-97d8-4cab-9a99-9a0992e97045@45.89.107.203:80?security=&type=ws&path=/vless/&host=portal-as.ruijienetworks.com&encryption=none#StarLink%20Malaysia%202026-05-31
+vless://a3b8a48f-efd4-5683-8ca9-77ec7b195ab5@sg1.xvless.site:80/?type=ws&encryption=none&flow=&host=portal-as.ruijienetworks.com&path=%2Fvless#%E2%AD%90Link%20My%20%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJhZGQiOiJzbGYucWl0by10ZWNoLm1lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwb3J0YWwtYXMucnVpamllbmV0d29ya3MuY29tIiwiaWQiOiJkMDJhYTI1Zi00ODUzLTQ4MTEtOTBmOS1mNzNjYTk5ZDM0MGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvUWl0b1RlY2gvIiwicG9ydCI6IjgwIiwicHMiOiLirZBMaW5rIFFJVE8g8J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://b36e4f9c-c568-4b17-8dfa-7885afc7a428@mmsp.leeleelarlar.me:80/?type=ws&encryption=none&flow=&host=portal-as.ruijienetworks.com&path=%2F%40noobqueenn#%E2%AD%90Link%20Taze%20%F0%9F%87%B8%F0%9F%87%AC
+vless://c9c9fba0-68f9-468a-b477-e54c6930c614@flyvpnprofrees5.flashhub.net:80/?type=ws&encryption=none&flow=&host=portal-as.ruijienetworks.com&path=%2FTelegram-%40flyvpnprostore#%E2%AD%90Link%20FlyVPN%20%F0%9F%87%AA%F0%9F%87%B8
+vless://60b69153-78f7-50c3-8f9e-b97668ef459a@us1.xvless.site:80/?type=ws&encryption=none&flow=&host=portal-as.ruijienetworks.com&path=%2Fvless#%E2%AD%90Link%20US%20%F0%9F%87%BA%F0%9F%87%B8%2023%20Jun%202026
+vless://683e08d2-be80-448a-94bf-5749ad05f9b9@38.107.232.36:80/?type=ws&encryption=none&flow=&host=portal-as.ruijienetworks.com&path=%2Fvless%2F#%E2%AD%90Link%20US%20%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%BA%F0%9F%87%B8%2023%20Jun%202026
+vless://9aeae152-eb69-4081-bef8-09bd7d83bc96@104.167.199.95:80/?type=ws&encryption=none&flow=&host=portal-as.ruijienetworks.com&path=%2Fvless%2F#%E2%AD%90Link%20US%20%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%BA%F0%9F%87%B8%2023%20Jun%202026
+vless://10b80c09-4194-4161-bbee-6974a14ed2e5@57.129.41.216:80/?type=ws&encryption=none&flow=&host=portal-as.ruijienetworks.com&path=%2Fvless%2F#%E2%AD%90Link%20Germany%20%F0%9F%87%A9%F0%9F%87%AA%202026-06-20
+vless://93af70cb-7814-4155-8ced-69e69d663d92@57.129.41.217:80/?type=ws&encryption=none&flow=&host=portal-as.ruijienetworks.com&path=%2Fvless%2F#%E2%AD%90Link%20Germany%20%F0%9F%87%A9%F0%9F%87%AA%202026-06-20
 
 
